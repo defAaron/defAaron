@@ -2,7 +2,7 @@
 
 # Hi, I'm Aaron Dutta 👋
 
-### I'm an IBDP Student at Milliken Mills High School
+### IBDP Student at Milliken Mills High School
 
 - 💻 To learn more about me, visit [aarondutta.com](https://aarondutta.com)
 - All I can say for now is that I'm passionate about mathematics, programming, and music :D
