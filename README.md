@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi, I'm Aaron Dutta 👋
+# hi, i'm aaron dutta 👋
 
-- IBDP Student at Milliken Mills High School
-- Passionate about mathematics 📐, programming 💻, and music 🎵
+- honours mathematics student at the University of Waterloo
+- passionate about mathematics 📐, programming 💻, and music 🎵
 </div>
 
 ---
