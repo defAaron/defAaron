@@ -1,6 +1,6 @@
 # hi, i'm aaron dutta 👋
 
-- honours mathematics student at the University of Waterloo
+- studying mathematics at the University of Waterloo
 - passionate about mathematics 📐, programming 💻, and music 🎵
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaron-dutta)
