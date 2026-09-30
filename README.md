@@ -1,7 +1,8 @@
 # hi, i'm aaron dutta 👋
 
 - studying mathematics at the University of Waterloo
-- passionate about mathematics 📐, programming 💻, and music 🎵
+- passionate about programming and music
+- creatively thinking, planning, and building 24/7
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaron-dutta)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/theaar0ndutta)
