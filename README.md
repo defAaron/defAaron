@@ -1,6 +1,7 @@
 # hi, i'm aaron dutta 👋
 
 - studying mathematics at the University of Waterloo
+- software engineering intern at Magic Hour AI (YC W24)
 - passionate about programming and music
 - creatively thinking, planning, and building 24/7
 
